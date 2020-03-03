@@ -1,0 +1,5 @@
+||open.oneplus.net^$ctag=device_phone
+||otafsg.h2os.com^$ctag=device_phone
+||otafsg1.h2os.com^$ctag=device_phone
+||otag.h2os.com^$ctag=device_phone
+||qbwup.imtt.qq.com^$device_phone

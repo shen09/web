@@ -1,0 +1,2 @@
+@@||msedge.*.microsoft.com^$important
+@@||www.2345.com^
