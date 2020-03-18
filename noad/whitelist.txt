@@ -1,3 +1,4 @@
 @@||msedge.*.microsoft.com^$important
+@@||msedgeextensions.f.tlu.dl.delivery.mp.microsoft.com^$important
 @@||www.2345.com^$important
 @@||without.host^$important

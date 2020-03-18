@@ -2,6 +2,7 @@
 ||*.windowsupdate.com*^
 ||*dsp.mp.microsoft.com.nsatc.net^
 ||*dsp.mp.microsoft.com^
+||*tgp.qq.com^
 ||adobe.cn^
 ||adobe.com.cn^
 ||adobe.com^
@@ -9,6 +10,7 @@
 ||autodesk.com.cn^
 ||autodesk.com.tw^
 ||autodesk.com^
+||avast.com^
 ||ccleaner.com^
 ||corel.com^
 ||download.windowsupdate.com*^
@@ -17,6 +19,7 @@
 ||geo-prod.do.dsp.mp.microsoft.com^
 ||hub5btmain.sandai.net^
 ||misc-xl9-ssl.xunlei.com^
+||ncgi.video.qq.com^
 ||notepad-plus-plus.org^
 ||pc.xunlei.com^
 ||piriform.com^
@@ -24,8 +27,11 @@
 ||sls.update.microsoft.com*^
 ||slscr.update.microsoft.com*^
 ||slscr.update.microsoft.com^
+||tgp.qq.com^
 ||tsfe.trafficshaping.dsp.mp.microsoft.com^
 ||updatecenter.qq.com^
 ||upgrade.xl9.xunlei.com^
 ||windowsupdate.com^
 ||winscp.net^
+||yoyo.qq.com^
+||zhanqi.tv^
